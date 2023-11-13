@@ -1,0 +1,13 @@
+body {
+    background-image: url(/5ab7e5f886077698169a4537405cebba.jpg);
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir toda la pantalla */
+    background-position: center; /* Centra la imagen en la pantalla */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    margin: 0; /* Asegúrate de que no haya márgenes en el cuerpo del documento */
+    height: 100vh; /* Establece la altura del cuerpo al 100% de la ventana gráfica */
+    display: flex; /* Usa flexbox para centrar el contenido verticalmente */
+    flex-direction: column; /* Alinea los elementos en una columna */
+    justify-content: center; /* Centra verticalmente el contenido */
+    align-items: center; /* Centra horizontalmente el contenido */
+    color: #ffffff;
+}
